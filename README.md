@@ -26,32 +26,21 @@ Here are screenshots that show the DNK E-commerce application in use.
 
 ---
 
-**Store Page**
-![Store Page]( "Store Page")
+## Tech Stack
+* React
+* Laravel
+* PHP
+* JavaScript
+* MySQL
+* Bootstrap
+* HTML
+* CSS
+* FontAwesome
+* React Axios, JOI, MUI
+* Composer
+* NPM
+* Jwt
+* MySQL
+* Xampp
+* Postman
 
----
-
-**Shopping Cart**
-![Shopping Cart]( "Shopping Cart")
-
----
-
-**Item Detail Page**
-![Item Detail]( "Optional Title")
-
----
-
-**Cart Page**
-![Cart Page]( "Cart Page")
-
----
-
-**Checkout Page**
-![Checkout Page]( "Checkout Page")
-
----
-
-**Logout**
-![Logout]( "Logout")
-
----
