@@ -1,0 +1,10 @@
+review obj
+{
+    "writer": "ahmed", 
+    "title":"ahmed's title",
+    "content":"ahmed's content",
+    "rating":3.2
+}
+
+important commands :
+php artisan key:generate // generate key fixes (No application encryption key has been specified. Error)
