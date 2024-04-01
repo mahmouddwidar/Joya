@@ -1,5 +1,8 @@
+<img src="https://github.com/mahmouddwidar/BluEye-Music-Player/assets/31744978/4a75eb13-c0fa-4e05-993e-cd8be3b4ce15" align="left" height="225px" hspace="0px" vspace="20px">
+
 # E-Commerce Joya
-Joya is a multi-vendor e-commerce platform built using Laravel and React. It serves as a clone of the popular e-commerce website, Jumia.com. The platform allows users to create accounts, browse products from multiple sellers, add items to their cart, and securely check out using Stripe integration. It includes features for password management, an admin dashboard for controlling the website, and a dedicated seller dashboard for managing products. With its comprehensive functionality, this project aims to provide a seamless and user-friendly online shopping experience for both buyers and sellers.
+
+**Joya is a multi-vendor e-commerce platform built using Laravel and React.** It serves as a clone of the popular e-commerce website, Jumia.com. The platform allows users to create accounts, browse products from multiple sellers, add items to their cart, and securely check out using Stripe integration. It includes features for password management, an admin dashboard for controlling the website, and a dedicated seller dashboard for managing products. With its comprehensive functionality, this project aims to provide a seamless and user-friendly online shopping experience for both buyers and sellers.
 
 ## Team Members
 * Ahmed Khaled
