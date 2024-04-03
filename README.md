@@ -12,7 +12,7 @@
 * Ahmad Mohamad Ibrahim
 
 ## Live Demonstration
-Here are screenshots that show the DNK E-commerce application in use.
+Here are screenshots that show the Joya E-commerce application in use.
 
 **Sign Up**
 ![Sign Up](https://github.com/mahmouddwidar/mahmouddwidar/assets/31744978/b8f84ad5-8891-4929-8c51-84d443cda14c "Sign Up")
