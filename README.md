@@ -11,20 +11,26 @@
 * Ahmed Khalil
 * Ahmad Mohamad Ibrahim
 
+## Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/t1yc9yTNmyw/0.jpg)](https://www.youtube.com/watch?v=t1yc9yTNmyw&t=248s&ab_channel=ahmedmohamed)
+
+Watch a video demonstration of the Joya E-Commerce platform by clicking the thumbnail above.
+
+
 ## Live Demonstration
 Here are screenshots that show the Joya E-commerce application in use.
 
-**Sign Up**
+**Sign Up**  
 ![Sign Up](https://github.com/mahmouddwidar/mahmouddwidar/assets/31744978/b8f84ad5-8891-4929-8c51-84d443cda14c "Sign Up")
 
 ---
 
-**Login**
+**Login**  
 ![Login](https://github.com/mahmouddwidar/mahmouddwidar/assets/31744978/3ec4fdbc-4202-44f6-a041-3f9cfc64b8fd "Login")
 
 ---
 
-**Home Page**
+**Home Page**  
 ![Home Page](https://github.com/mahmouddwidar/mahmouddwidar/assets/31744978/09670f4f-ad48-4f21-9916-fe3b81b7f5e7 "Home Page")
 
 ---
@@ -46,4 +52,3 @@ Here are screenshots that show the Joya E-commerce application in use.
 * MySQL
 * Xampp
 * Postman
-
